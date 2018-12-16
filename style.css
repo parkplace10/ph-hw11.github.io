@@ -1,0 +1,27 @@
+
+  .topnav a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #B5B5B5;
+    color: black;
+  }
+  
+
+  .topnav a.active {
+    background-color: #8B8B8B;
+    color: white;
+  }
+.site-name{
+    font-size:30px
+}
+
+.box{
+    height: 540px;
+    width: 540px
+}
